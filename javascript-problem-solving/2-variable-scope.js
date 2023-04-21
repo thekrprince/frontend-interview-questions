@@ -31,3 +31,8 @@ c = 20;
 let d;
 console.log(d); // undefined
 d = 12;
+
+// Program 6
+
+console.log(e); // ReferenceError: Cannot access 'e' before initialization
+let e = 100;
