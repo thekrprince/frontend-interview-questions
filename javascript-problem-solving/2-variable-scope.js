@@ -19,3 +19,9 @@ var b = 25;
 console.log(b); // 25
 
 b = 35;
+
+// Program 4
+
+let c = 15;
+console.log(c); // 15
+c = 20;
