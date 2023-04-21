@@ -25,3 +25,9 @@ b = 35;
 let c = 15;
 console.log(c); // 15
 c = 20;
+
+// Program 5
+
+let d;
+console.log(d); // undefined
+d = 12;
