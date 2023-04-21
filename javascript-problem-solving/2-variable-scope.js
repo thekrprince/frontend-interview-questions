@@ -42,3 +42,7 @@ let e = 100;
 const f = 650;
 console.log(f); // Error as variable cannot be re-assigned
 f = 700;
+
+// Program 8
+console.log(g); // ReferenceError: Cannot access 'g' before initialization
+const g = 780;
